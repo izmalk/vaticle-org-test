@@ -1,2 +1,2 @@
-# vaticle-org-test
-[![Vaticle](vaticle_banner.png)](vaticle_banner.png)
+# Vaticle
+[![Vaticle](vaticle_banner.png)](https://vaticle.com)
